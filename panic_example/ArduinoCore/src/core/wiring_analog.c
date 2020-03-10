@@ -24,6 +24,7 @@
 
 #include "wiring_private.h"
 #include "pins_arduino.h"
+#include <util/delay.h>
 
 uint8_t analog_reference = DEFAULT;
 
@@ -34,6 +35,7 @@ void analogReference(uint8_t mode)
 	// there's something connected to AREF.
 	analog_reference = mode;
 }
+extern unsigned char debug;
 
 int analogRead(uint8_t pin)
 {
@@ -51,7 +53,7 @@ int analogRead(uint8_t pin)
 #elif defined(__AVR_ATmega1284__) || defined(__AVR_ATmega1284P__) || defined(__AVR_ATmega644__) || defined(__AVR_ATmega644A__) || defined(__AVR_ATmega644P__) || defined(__AVR_ATmega644PA__)
 	if (pin >= 24) pin -= 24; // allow for channel or pin numbers
 #else
-	if (pin >= 14) pin -= 14; // allow for channel or pin numbers
+	if (pin >= 16) pin -= 16; // allow for channel or pin numbers
 #endif
 
 #if defined(ADCSRB) && defined(MUX5)
@@ -67,7 +69,7 @@ int analogRead(uint8_t pin)
 #if defined(__AVR_ATtiny25__) || defined(__AVR_ATtiny45__) || defined(__AVR_ATtiny85__)
 	ADMUX = (analog_reference << 4) | (pin & 0x07);
 #else
-	ADMUX = (analog_reference << 6) | (pin & 0x07);
+	ADMUX = (analog_reference << 6) | (pin & 0xF);
 #endif
 #endif
 

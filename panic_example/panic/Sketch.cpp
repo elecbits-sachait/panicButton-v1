@@ -8,6 +8,7 @@
 #include <RF24.h>
 #include <RF24_config.h>
 #include <avr/sleep.h>
+#include <avr/wdt.h>
 
 //Beginning of Auto generated function prototypes by Atmel Studio
 //End of Auto generated function prototypes by Atmel Studio
@@ -19,6 +20,8 @@ uint32_t ref_debounce;
 bool debounced = true;
 bool triggered = false;
 uint8_t retry;
+
+bool time_out;
 
 uint32_t ref_send_data;
 uint8_t packet[4] = {'T', '\0'};
@@ -61,8 +64,20 @@ bool send_data()
 	
 }
 
+void read_battery_voltage()
+{
+	
+}
+
+unsigned char debug;
+
 void setup() {
   Serial.begin(115200);
+  
+  WDTCSR |= (1<<WDCE) | (1<<WDE);
+  WDTCSR = (1<<WDIE) | (0b111<<WDP0);
+  
+  Serial.println(WDTCSR, BIN);
   
   set_sleep_mode(0b010<<SM0); //power down sleep mode
   sleep_enable();	//enable sleep
@@ -126,11 +141,25 @@ void loop() {
 	}
 	else if (debounced)
 	{
+		Serial.println("entering sleep");
 		delay(100);
 		enterSleepMode();
 	}
 	
+	if (time_out)
+	{
+		ADCSRA |= (1<<ADEN);
+		time_out = false;
+		digitalWrite(ACK_LED, HIGH);
+		delay(50);
+		digitalWrite(ACK_LED, LOW);
+		Serial.println("WDT time out");
+		Serial.print("band gap = ");
+		Serial.println(analogRead(0b1110));
+		ADCSRA &= ~(1<<ADEN);
+	}
 }
+
 
 
 
@@ -138,4 +167,9 @@ ISR (INT0_vect)
 {
 	ref_debounce = millis();
 	debounced = false;
+}
+
+ISR(WDT_vect)
+{
+	time_out = true;
 }
