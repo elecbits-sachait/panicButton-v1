@@ -98,7 +98,7 @@ void setup() {
 
 void loop() {
 	
-	if (!1)
+	if (!debounced)
 	{
 		if (millis() - ref_debounce >= 10)
 		{
