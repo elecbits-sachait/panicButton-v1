@@ -22,6 +22,9 @@ bool triggered = false;
 uint8_t retry;
 
 bool time_out;
+uint32_t time_wdt;
+
+bool resleep;
 
 uint32_t ref_send_data;
 uint8_t packet[4] = {'T', '\0'};
@@ -29,12 +32,19 @@ uint8_t addresses[][6] = {"D000B"};
 RF24 radio(8, 10);
 
 
-void enterSleepMode()
+
+inline void enterSleepMode()
 {
+	start:
 	PRR = (1<<PRTWI) | (1<<PRTIM2) | (1<<PRTIM0) | (1<<PRTIM1) | (1<<PRSPI) | (1<<PRUSART0) | (1<<PRADC);
 	MCUCR = (1<<BODS) | (1<<BODSE);		//brown out detection disable
 	MCUCR = (1<<BODS);
 	sleep_cpu();	//enter sleep mode
+	if (resleep)
+	{
+		resleep = false;
+		goto start;
+	}
 	PRR = 0;
 }
 
@@ -44,6 +54,9 @@ bool send_data()
 	digitalWrite(ACK_LED, HIGH);
 	delay(50);
 	digitalWrite(ACK_LED, LOW);
+	
+	packet[0] = 'T';
+	packet[1] = '\0';
 	
 	radio.stopListening();
 	if (!radio.write(packet, sizeof(packet)))
@@ -66,7 +79,19 @@ bool send_data()
 
 void read_battery_voltage()
 {
-	
+	float bandgap, battery_voltage;
+	uint16_t temp;
+	ADCSRA |= (1<<ADEN);
+	delay(50);
+	Serial.print("battery = ");
+	bandgap = analogRead(0b1110);
+	battery_voltage = (1/bandgap)*1023.0;
+	temp = battery_voltage * 100;
+	packet[0] = 'B';
+	*((uint16_t *)&packet[1]) = temp;
+	Serial.println(*((uint16_t *)&packet[1]));
+	radio.write(packet, sizeof(packet));
+	ADCSRA &= ~(1<<ADEN);
 }
 
 unsigned char debug;
@@ -75,7 +100,7 @@ void setup() {
   Serial.begin(115200);
   
   WDTCSR |= (1<<WDCE) | (1<<WDE);
-  WDTCSR = (1<<WDIE) | (0b111<<WDP0);
+  WDTCSR = (1<<WDIE) | (0b000111<<WDP0);
   
   Serial.println(WDTCSR, BIN);
   
@@ -148,15 +173,11 @@ void loop() {
 	
 	if (time_out)
 	{
-		ADCSRA |= (1<<ADEN);
 		time_out = false;
 		digitalWrite(ACK_LED, HIGH);
 		delay(50);
+		read_battery_voltage();
 		digitalWrite(ACK_LED, LOW);
-		Serial.println("WDT time out");
-		Serial.print("band gap = ");
-		Serial.println(analogRead(0b1110));
-		ADCSRA &= ~(1<<ADEN);
 	}
 }
 
@@ -171,5 +192,7 @@ ISR (INT0_vect)
 
 ISR(WDT_vect)
 {
-	time_out = true;
+	time_wdt++;
+	if (time_wdt < 1) resleep = true;
+	else time_out = true, time_wdt = 0;
 }
