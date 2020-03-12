@@ -13,34 +13,35 @@
 //Beginning of Auto generated function prototypes by Atmel Studio
 //End of Auto generated function prototypes by Atmel Studio
 
-#define ACK_LED			9
-#define BUTTON_PIN		2
+#define ACK_LED			A2
+#define BUTTON_PIN		3
 
-uint32_t ref_debounce;
-bool debounced = true;
-bool triggered = false;
-uint8_t retry;
+uint32_t ref_debounce;		//reference time for denounce
+bool debounced = true;		//debounced flag
+bool triggered = false;		//triggered flag
+uint8_t retry;				//retry count
 
-bool time_out;
-uint32_t time_wdt;
+bool time_out = true;				//time out flag
+uint32_t time_wdt;			//time counter for watch dog timer
 
-bool resleep;
+bool resleep;				//sleep immediate flag
 
-uint32_t ref_send_data;
-uint8_t packet[4] = {'T', '\0'};
-uint8_t addresses[][6] = {"D000B"};
-RF24 radio(8, 10);
+uint32_t ref_send_data;		//reference time retry
+uint8_t packet[4] = {'T', '\0'};	//data packet buffer
+uint8_t addresses[][6] = {"D001B"};	//nrf address buffer
+	
+RF24 radio(10, 9);			
 
 
 
 inline void enterSleepMode()
 {
 	start:
-	PRR = (1<<PRTWI) | (1<<PRTIM2) | (1<<PRTIM0) | (1<<PRTIM1) | (1<<PRSPI) | (1<<PRUSART0) | (1<<PRADC);
+	PRR = (1<<PRTWI) | (1<<PRTIM2) | (1<<PRTIM0) | (1<<PRTIM1) | (1<<PRSPI) | (1<<PRUSART0) | (1<<PRADC);	//disable all paripharal
 	MCUCR = (1<<BODS) | (1<<BODSE);		//brown out detection disable
-	MCUCR = (1<<BODS);
+	MCUCR = (1<<BODS);		//brown out detection disable
 	sleep_cpu();	//enter sleep mode
-	if (resleep)
+	if (resleep)	//if resleep is true sleep again
 	{
 		resleep = false;
 		goto start;
@@ -50,16 +51,17 @@ inline void enterSleepMode()
 
 bool send_data()
 {
-	radio.powerUp();
-	digitalWrite(ACK_LED, HIGH);
+	radio.powerUp();		//NRF power up
+	digitalWrite(ACK_LED, HIGH); 
 	delay(50);
 	digitalWrite(ACK_LED, LOW);
 	
-	packet[0] = 'T';
-	packet[1] = '\0';
+	packet[0] = 'B';		//indicates device
+	packet[1] = 'T';		//indicate trigger signal
+	packet[2] = '\0';		//NULL
 	
-	radio.stopListening();
-	if (!radio.write(packet, sizeof(packet)))
+	radio.stopListening();	//stop resiving
+	if (!radio.write(packet, sizeof(packet)))	//write data
 	{
 		radio.powerDown();
 		Serial.println("failed");
@@ -79,6 +81,7 @@ bool send_data()
 
 void read_battery_voltage()
 {
+	radio.powerUp();
 	float bandgap, battery_voltage;
 	uint16_t temp;
 	ADCSRA |= (1<<ADEN);
@@ -88,8 +91,10 @@ void read_battery_voltage()
 	battery_voltage = (1/bandgap)*1023.0;
 	temp = battery_voltage * 100;
 	packet[0] = 'B';
-	*((uint16_t *)&packet[1]) = temp;
-	Serial.println(*((uint16_t *)&packet[1]));
+	packet[1] = 'B';
+	*((uint16_t *)&packet[2]) = temp;
+	Serial.println(*((uint16_t *)&packet[2]));
+	radio.stopListening();
 	radio.write(packet, sizeof(packet));
 	ADCSRA &= ~(1<<ADEN);
 }
@@ -111,9 +116,9 @@ void setup() {
 	pinMode(BUTTON_PIN, INPUT_PULLUP);
 	
 	cli();
-	EICRA |= (1<<ISC00);	// falling edge interrupt
+	EICRA |= (1<<ISC10);	// falling edge interrupt
 	EIFR = 3;
-	EIMSK |= 1<<INT0;		//external interrupt0 enable
+	EIMSK |= 1<<INT1;		//external interrupt0 enable
 	sei();
   radio.begin();
   radio.setPALevel(RF24_PA_MAX);
@@ -121,15 +126,12 @@ void setup() {
   radio.enableDynamicPayloads();
   radio.enableAckPayload();
   radio.enableDynamicAck();
-  radio.setChannel(50);
   
   radio.openWritingPipe(addresses[0]);
   radio.openReadingPipe(1,addresses[0]);
-  pinMode(A3,OUTPUT);
   
   Serial.print("ChipConnected = ");
   Serial.println(radio.isChipConnected() ? ("true"):("false"));
-  digitalWrite(A3,LOW);
   delay(100);
   radio.powerDown();
 }
@@ -137,6 +139,16 @@ void setup() {
 
 
 void loop() {
+	
+	
+	if (time_out)
+	{
+		time_out = false;
+		digitalWrite(ACK_LED, HIGH);
+		delay(50);
+		read_battery_voltage();
+		digitalWrite(ACK_LED, LOW);
+	}
 	
 	if (!debounced)
 	{
@@ -171,20 +183,13 @@ void loop() {
 		enterSleepMode();
 	}
 	
-	if (time_out)
-	{
-		time_out = false;
-		digitalWrite(ACK_LED, HIGH);
-		delay(50);
-		read_battery_voltage();
-		digitalWrite(ACK_LED, LOW);
-	}
+	
 }
 
 
 
 
-ISR (INT0_vect)
+ISR (INT1_vect)
 {
 	ref_debounce = millis();
 	debounced = false;
@@ -193,6 +198,6 @@ ISR (INT0_vect)
 ISR(WDT_vect)
 {
 	time_wdt++;
-	if (time_wdt < 1) resleep = true;
+	if (time_wdt < (60*60/8)) resleep = true;
 	else time_out = true, time_wdt = 0;
 }
