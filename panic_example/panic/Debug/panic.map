@@ -1,0 +1,1530 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              Sketch.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              Sketch.o (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              Sketch.o (__floatsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              Sketch.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Sketch.o (_ZN14HardwareSerial5writeEh)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Sketch.o (Serial)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (millis)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                              Sketch.o (analogRead)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              Sketch.o (pinMode)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                              Sketch.o (_ZN4RF24C1Ejj)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o) (_ZN8SPIClass5beginEv)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              Sketch.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o) (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o)
+                              Sketch.o (fdevopen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o) (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+                              F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o) (printf_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o) (vfprintf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o) (calloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o) (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o) (memset)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o) (__prologue_saves__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .text._Z12printf_beginv
+                0x00000000        0xc Sketch.o
+ .text._Z11serial_putccP6__file
+                0x00000000       0x16 Sketch.o
+ .bss.debug     0x00000000        0x1 Sketch.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0xe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x90 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0xe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1b6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogWrite
+                0x00000000       0xbe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .group         0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2413read_registerEhPhh
+                0x00000000       0x56 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2412read_payloadEPvh
+                0x00000000       0x82 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2412print_statusEh
+                0x00000000       0x58 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2416print_observe_txEh
+                0x00000000       0x34 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2419print_byte_registerEPKchh
+                0x00000000       0x7c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2422print_address_registerEPKchh
+                0x00000000      0x11c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410getChannelEv
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2414setPayloadSizeEh
+                0x00000000        0xc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2414getPayloadSizeEv
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249errNotifyEv
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF247reUseTXEv
+                0x00000000       0x2a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2413writeBlockingEPKvhm
+                0x00000000       0xf0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249writeFastEPKvhb
+                0x00000000       0x90 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249writeFastEPKvh
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410startWriteEPKvhb
+                0x00000000       0x2a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410rxFifoFullEv
+                0x00000000        0xc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249txStandByEv
+                0x00000000       0x80 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249txStandByEmb
+                0x00000000       0xec F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF247maskIRQEbbb
+                0x00000000       0x4a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2421getDynamicPayloadSizeEv
+                0x00000000       0x44 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249availableEPh
+                0x00000000       0x3c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF249availableEv
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF244readEPvh
+                0x00000000       0x18 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2412whatHappenedERbS0_S0_
+                0x00000000       0x44 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2415openWritingPipeEy
+                0x00000000       0x76 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2415openReadingPipeEhy
+                0x00000000       0xe0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2415setAddressWidthEh
+                0x00000000       0x36 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2416closeReadingPipeEh
+                0x00000000       0x3a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2414startListeningEv
+                0x00000000       0x6c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2422disableDynamicPayloadsEv
+                0x00000000       0x20 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2415writeAckPayloadEhPKvh
+                0x00000000       0x56 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2421isAckPayloadAvailableEv
+                0x00000000        0xc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410isPVariantEv
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410setAutoAckEb
+                0x00000000       0x10 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410setAutoAckEhb
+                0x00000000       0x4a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF247testRPDEv
+                0x00000000        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2411testCarrierEv
+                0x00000000        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410getPALevelEv
+                0x00000000        0xc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF246getARCEv
+                0x00000000        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2411getDataRateEv
+                0x00000000       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2412setCRCLengthE16rf24_crclength_e
+                0x00000000       0x30 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2412getCRCLengthEv
+                0x00000000       0x36 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2412printDetailsEv
+                0x00000000      0x146 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410disableCRCEv
+                0x00000000       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text._ZN4RF2410setRetriesEhh
+                0x00000000       0x12 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_12
+                0x00000000       0x11 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_11
+                0x00000000       0x13 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_10
+                0x00000000        0xf F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_9
+                0x00000000       0x12 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_8
+                0x00000000        0xe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_7
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_6
+                0x00000000        0x9 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_5
+                0x00000000        0x7 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_4
+                0x00000000        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_3
+                0x00000000        0x7 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_2
+                0x00000000        0xb F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_1
+                0x00000000        0x9 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_0
+                0x00000000        0xd F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c
+                0x00000000        0xd F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c_2
+                0x00000000        0x3 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c_1
+                0x00000000        0x5 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c_0
+                0x00000000        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2419print_byte_registerEPKchhE3__c_1
+                0x00000000        0x3 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2419print_byte_registerEPKchhE3__c_0
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2419print_byte_registerEPKchhE3__c
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2416print_observe_txEhE3__c
+                0x00000000       0x2a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZZN4RF2412print_statusEhE3__c
+                0x00000000       0x46 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_P
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_3
+                0x00000000        0x7 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_2
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_1
+                0x00000000        0x7 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_0
+                0x00000000        0x7 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL22rf24_crclength_e_str_P
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL22rf24_crclength_e_str_2
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL22rf24_crclength_e_str_1
+                0x00000000        0x7 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL22rf24_crclength_e_str_0
+                0x00000000        0x9 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL18rf24_model_e_str_P
+                0x00000000        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL18rf24_model_e_str_1
+                0x00000000        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL18rf24_model_e_str_0
+                0x00000000        0x9 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL21rf24_datarate_e_str_P
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL21rf24_datarate_e_str_2
+                0x00000000        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL21rf24_datarate_e_str_1
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL21rf24_datarate_e_str_0
+                0x00000000        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000       0x28 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass14usingInterruptEh
+                0x00000000       0x38 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass17notUsingInterruptEh
+                0x00000000       0x36 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss._ZN8SPIClass13interruptSaveE
+                0x00000000        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss._ZN8SPIClass13interruptMaskE
+                0x00000000        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss._ZN8SPIClass13interruptModeE
+                0x00000000        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss.SPI       0x00000000        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x180 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o)
+ .text.avr-libc
+                0x00000000       0x96 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fdevopen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ COMMON         0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .text.avr-libc
+                0x00000000       0x4c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text.avr-libc
+                0x00000000      0x3c2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .comment       0x00000000       0x2d c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .text.avr-libc
+                0x00000000       0x38 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .data          0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text.avr-libc
+                0x00000000      0x242 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ COMMON         0x00000000        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text.avr-libc
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text.avr-libc
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text.avr-libc
+                0x00000000       0x78 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text.avr-libc
+                0x00000000       0xbc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x00000000       0x38 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x00000000       0x36 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Sketch.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00800060                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1976
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+ .progmem.data._ZL18child_payload_size
+                0x000000c2        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL10child_pipe
+                0x000000c8        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .progmem.data._ZL17child_pipe_enable
+                0x000000ce        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000000d4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000d4                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000d4        0x2 Sketch.o
+ .ctors         0x000000d6        0x2 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000d8                __ctors_end = .
+                0x000000d8                __dtors_start = .
+ *(.dtors)
+                0x000000d8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000d8        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000d8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000d8        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000e4       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000e4                __do_copy_data
+ .init4         0x000000fa       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000fa                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000010a       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x0000010a                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000120        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000128        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000128                __vector_22
+                0x00000128                __vector_1
+                0x00000128                __vector_24
+                0x00000128                __vector_12
+                0x00000128                __bad_interrupt
+                0x00000128                __vector_3
+                0x00000128                __vector_23
+                0x00000128                __vector_25
+                0x00000128                __vector_11
+                0x00000128                __vector_13
+                0x00000128                __vector_17
+                0x00000128                __vector_7
+                0x00000128                __vector_5
+                0x00000128                __vector_4
+                0x00000128                __vector_9
+                0x00000128                __vector_21
+                0x00000128                __vector_15
+                0x00000128                __vector_8
+                0x00000128                __vector_14
+                0x00000128                __vector_10
+                0x00000128                __vector_20
+                0x0000012c                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z9send_datav
+                0x0000012c       0xa6 Sketch.o
+                0x0000012c                _Z9send_datav
+ .text._Z20read_battery_voltagev
+                0x000001d2       0xa8 Sketch.o
+                0x000001d2                _Z20read_battery_voltagev
+ .text.setup    0x0000027a       0xfa Sketch.o
+                0x0000027a                setup
+ .text.loop     0x00000374      0x14a Sketch.o
+                0x00000374                loop
+ .text.__vector_2
+                0x000004be       0x5c Sketch.o
+                0x000004be                __vector_2
+ .text.__vector_6
+                0x0000051a       0x76 Sketch.o
+                0x0000051a                __vector_6
+ .text.startup._GLOBAL__sub_I__Z11serial_putccP6__file
+                0x00000590       0x10 Sketch.o
+ .text.avr-libc.fplib
+                0x000005a0        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000005a0                __divsf3
+ .text.avr-libc.fplib
+                0x000005a8       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x000005c8                __divsf3x
+                0x000005ce                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000684       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00000684                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000006e2       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000006e2                __floatunsisf
+                0x000006e6                __floatsisf
+ .text.avr-libc.fplib
+                0x0000075c        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000075c                __fp_inf
+ .text.avr-libc.fplib
+                0x00000768        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000768                __fp_nan
+ .text.avr-libc.fplib
+                0x0000076e        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000076e                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000077c        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000077c                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000078a       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000078a                __fp_round
+ .text.avr-libc.fplib
+                0x000007ac       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000007ac                __fp_split3
+                0x000007bc                __fp_splitA
+ .text.avr-libc.fplib
+                0x000007f0        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000007f0                __fp_zero
+                0x000007f2                __fp_szero
+ .text.avr-libc.fplib
+                0x000007fe        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000007fe                __mulsf3
+ .text.avr-libc.fplib
+                0x00000806       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00000824                __mulsf3x
+                0x0000082a                __mulsf3_pse
+ .text._ZN14HardwareSerial9availableEv
+                0x000008d8       0x18 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000008d8                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x000008f0       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000008f0                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x0000090c       0x28 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000090c                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000934       0x1e F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000934                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x00000952       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000952                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x0000096e       0x44 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000096e                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x000009b2       0x9a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000009b2                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x00000a4c       0x44 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000a4c                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000a90       0xc0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000a90                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x00000b50       0x64 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000b50                __vector_18
+ .text.__vector_19
+                0x00000bb4       0x4c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000bb4                __vector_19
+ .text._Z17Serial0_availablev
+                0x00000c00       0x14 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000c00                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00000c14       0x5a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x00000c6e        0x2 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000c6e                initVariant
+ .text.startup.main
+                0x00000c70       0x1e F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000c70                main
+ .text._ZN5Print5writeEPKhj
+                0x00000c8e       0x54 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c8e                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000ce2       0x2a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ce2                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00000d0c        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000d0c                _ZN5Print5printEPKc
+ .text._ZN5Print7printlnEv
+                0x00000d10        0x8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000d10                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x00000d18       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000d18                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x00000d3c       0x92 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000d3c                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00000dce       0x1a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000dce                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00000de8        0xe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000de8                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x00000df6       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000df6                _ZN5Print7printlnEhi
+ .text._ZN5Print5printEji
+                0x00000e1a        0xc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000e1a                _ZN5Print5printEji
+ .text._ZN5Print7printlnEji
+                0x00000e26       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000e26                _ZN5Print7printlnEji
+ .text.__vector_16
+                0x00000e4a       0x94 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000e4a                __vector_16
+ .text.millis   0x00000ede       0x18 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000ede                millis
+ .text.micros   0x00000ef6       0x4a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000ef6                micros
+ .text.delay    0x00000f40       0x78 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000f40                delay
+ .text.delayMicroseconds
+                0x00000fb8       0x12 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000fb8                delayMicroseconds
+ .text.init     0x00000fca       0x76 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000fca                init
+ .text.analogRead
+                0x00001040       0x3a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00001040                analogRead
+ .text.turnOffPWM
+                0x0000107a       0x52 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000010cc       0x78 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000010cc                pinMode
+ .text.digitalWrite
+                0x00001144       0x5e F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001144                digitalWrite
+ .text.digitalRead
+                0x000011a2       0x52 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000011a2                digitalRead
+ .text._ZN8SPIClass8transferEh
+                0x000011f4        0xe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000011f4                _ZN8SPIClass8transferEh
+ .text._ZN4RF243csnEb
+                0x00001202       0x30 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001202                _ZN4RF243csnEb
+ .text._ZN4RF242ceEb
+                0x00001232       0x18 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001232                _ZN4RF242ceEb
+ .text._ZN4RF2416beginTransactionEv
+                0x0000124a        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x0000124a                _ZN4RF2416beginTransactionEv
+ .text._ZN4RF2414endTransactionEv
+                0x00001250        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001250                _ZN4RF2414endTransactionEv
+ .text._ZN4RF2413read_registerEh
+                0x00001256       0x2e F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001256                _ZN4RF2413read_registerEh
+ .text._ZN4RF2414write_registerEhPKhh
+                0x00001284       0x56 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001284                _ZN4RF2414write_registerEhPKhh
+ .text._ZN4RF2414write_registerEhh
+                0x000012da       0x36 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000012da                _ZN4RF2414write_registerEhh
+ .text._ZN4RF2413write_payloadEPKvhh
+                0x00001310       0x82 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001310                _ZN4RF2413write_payloadEPKvhh
+ .text._ZN4RF248spiTransEh
+                0x00001392       0x26 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001392                _ZN4RF248spiTransEh
+ .text._ZN4RF248flush_rxEv
+                0x000013b8        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000013b8                _ZN4RF248flush_rxEv
+ .text._ZN4RF248flush_txEv
+                0x000013be        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000013be                _ZN4RF248flush_txEv
+ .text._ZN4RF2410get_statusEv
+                0x000013c4        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000013c4                _ZN4RF2410get_statusEv
+ .text._ZN4RF24C2Ejj
+                0x000013ca       0x2a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000013ca                _ZN4RF24C1Ejj
+                0x000013ca                _ZN4RF24C2Ejj
+ .text._ZN4RF2410setChannelEh
+                0x000013f4       0x10 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000013f4                _ZN4RF2410setChannelEh
+ .text._ZN4RF2415isChipConnectedEv
+                0x00001404       0x14 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001404                _ZN4RF2415isChipConnectedEv
+ .text._ZN4RF2413stopListeningEv
+                0x00001418       0x6a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001418                _ZN4RF2413stopListeningEv
+ .text._ZN4RF249powerDownEv
+                0x00001482       0x30 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001482                _ZN4RF249powerDownEv
+ .text._ZN4RF247powerUpEv
+                0x000014b2       0x32 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000014b2                _ZN4RF247powerUpEv
+ .text._ZN4RF2414startFastWriteEPKvhbb
+                0x000014e4       0x32 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000014e4                _ZN4RF2414startFastWriteEPKvhbb
+ .text._ZN4RF245writeEPKvhb
+                0x00001516       0x7a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001516                _ZN4RF245writeEPKvhb
+ .text._ZN4RF245writeEPKvh
+                0x00001590        0x6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001590                _ZN4RF245writeEPKvh
+ .text._ZN4RF2415openWritingPipeEPKh
+                0x00001596       0x34 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001596                _ZN4RF2415openWritingPipeEPKh
+ .text._ZN4RF2415openReadingPipeEhPKh
+                0x000015ca       0xa8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000015ca                _ZN4RF2415openReadingPipeEhPKh
+ .text._ZN4RF2415toggle_featuresEv
+                0x00001672       0x20 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001672                _ZN4RF2415toggle_featuresEv
+ .text._ZN4RF2421enableDynamicPayloadsEv
+                0x00001692       0x36 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x00001692                _ZN4RF2421enableDynamicPayloadsEv
+ .text._ZN4RF2416enableAckPayloadEv
+                0x000016c8       0x36 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000016c8                _ZN4RF2416enableAckPayloadEv
+ .text._ZN4RF2416enableDynamicAckEv
+                0x000016fe       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000016fe                _ZN4RF2416enableDynamicAckEv
+ .text._ZN4RF2410setPALevelEh
+                0x0000171a       0x30 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x0000171a                _ZN4RF2410setPALevelEh
+ .text._ZN4RF2411setDataRateE15rf24_datarate_e
+                0x0000174a       0x6c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x0000174a                _ZN4RF2411setDataRateE15rf24_datarate_e
+ .text._ZN4RF245beginEv
+                0x000017b6       0xec F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                0x000017b6                _ZN4RF245beginEv
+ .text._ZN8SPIClass5beginEv
+                0x000018a2       0x6c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x000018a2                _ZN8SPIClass5beginEv
+ .text.__empty  0x0000190e        0x2 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x0000190e                yield
+ .text.libgcc.div
+                0x00001910       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001910                __udivmodsi4
+ .text.libgcc   0x00001954        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00001954                __tablejump2__
+ .text.avr-libc
+                0x00001960       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x00001960                memcpy
+                0x00001972                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001972        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001972                _exit
+                0x00001972                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001972        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001976                _etext = .
+
+.data           0x00800100       0x7a load address 0x00001976
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.addresses
+                0x00800100        0x6 Sketch.o
+                0x00800100                addresses
+ .data.packet   0x00800106        0x4 Sketch.o
+                0x00800106                packet
+ .data.time_out
+                0x0080010a        0x1 Sketch.o
+                0x0080010a                time_out
+ .data.debounced
+                0x0080010b        0x1 Sketch.o
+                0x0080010b                debounced
+ .data.analog_reference
+                0x0080010c        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x0080010c                analog_reference
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080010d       0x42 Sketch.o
+ .rodata._ZTV14HardwareSerial
+                0x0080014f       0x12 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0080014f                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x00800161        0xf F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata.str1.1
+                0x00800170        0xa F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ *(.gnu.linkonce.r*)
+                0x0080017a                . = ALIGN (0x2)
+                0x0080017a                _edata = .
+                0x0080017a                PROVIDE (__data_end, .)
+
+.bss            0x0080017a       0xce
+                0x0080017a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.radio     0x0080017a       0x18 Sketch.o
+                0x0080017a                radio
+ .bss.ref_send_data
+                0x00800192        0x4 Sketch.o
+                0x00800192                ref_send_data
+ .bss.resleep   0x00800196        0x1 Sketch.o
+                0x00800196                resleep
+ .bss.time_wdt  0x00800197        0x4 Sketch.o
+                0x00800197                time_wdt
+ .bss.retry     0x0080019b        0x1 Sketch.o
+                0x0080019b                retry
+ .bss.triggered
+                0x0080019c        0x1 Sketch.o
+                0x0080019c                triggered
+ .bss.ref_debounce
+                0x0080019d        0x4 Sketch.o
+                0x0080019d                ref_debounce
+ .bss.Serial    0x008001a1       0x9d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008001a1                Serial
+ .bss.timer0_fract
+                0x0080023e        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x0080023f        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0080023f                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800243        0x4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800243                timer0_overflow_count
+ .bss._ZN8SPIClass11initializedE
+                0x00800247        0x1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x00800247                _ZN8SPIClass11initializedE
+ *(COMMON)
+                0x00800248                PROVIDE (__bss_end, .)
+                0x00001976                __data_load_start = LOADADDR (.data)
+                0x000019f0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800248        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800248                _end = .
+                0x00800248                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Sketch.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .comment       0x00000030       0x31 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x5b8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x60 Sketch.o
+ .debug_aranges
+                0x00000060       0x68 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x000000c8       0x48 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x00000110       0x30 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000140      0x100 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000240       0x48 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000288       0x30 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_aranges
+                0x000002b8       0x38 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000002f0      0x270 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_aranges
+                0x00000560       0x38 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_aranges
+                0x00000598       0x20 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xdd2c
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x18fa Sketch.o
+ .debug_info    0x00001eee     0x1f6d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00003e5b     0x1b16 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x00005971      0x237 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00005ba8     0x28ff F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x000084a7      0x2cb F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x00008772      0x26d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x000089df      0x5fe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00008fdd     0x46a6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_info    0x0000d683      0x66b F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_info    0x0000dcee       0x3e F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000     0x24b3
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x49e Sketch.o
+ .debug_abbrev  0x00000a40      0x4c6 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000f06      0x3ce F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x000012d4      0x12d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001401      0x47a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x0000187b      0x146 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x000019c1      0x16b F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00001b2c      0x15b F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00001c87      0x57f F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_abbrev  0x00002206      0x283 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_abbrev  0x00002489       0x2a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000     0x32e1
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x560 Sketch.o
+ .debug_line    0x00000693      0x4cb F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000b5e      0x2a1 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00000dff      0x17a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00000f79      0x69a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00001613      0x2af F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000018c2      0x224 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x00001ae6      0x267 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00001d4d     0x125b F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_line    0x00002fa8      0x2f8 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_line    0x000032a0       0x41 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000     0x13a4
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x13c Sketch.o
+ .debug_frame   0x0000013c      0x110 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x0000024c       0xe0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x0000032c       0x54 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000380      0x3ac F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x0000072c       0xc4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000007f0       0x54 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x00000844       0x7c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x000008c0      0xa64 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_frame   0x00001324       0x5c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_frame   0x00001380       0x24 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000     0x32c4
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x1110 Sketch.o
+                               0x1219 (size before relaxing)
+ .debug_str     0x00001318     0x12ce F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x15f7 (size before relaxing)
+ .debug_str     0x000025e6       0x86 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x13ea (size before relaxing)
+ .debug_str     0x0000266c       0x37 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x296 (size before relaxing)
+ .debug_str     0x000026a3      0x38a F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1224 (size before relaxing)
+ .debug_str     0x00002a2d      0x14d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x22c (size before relaxing)
+ .debug_str     0x00002b7a       0x6c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                                0x230 (size before relaxing)
+ .debug_str     0x00002be6       0x9d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x291 (size before relaxing)
+ .debug_str     0x00002c83      0x57c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+                               0x156d (size before relaxing)
+ .debug_str     0x000031ff       0xa9 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                                0x68f (size before relaxing)
+ .debug_str     0x000032a8       0x1c F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x121 (size before relaxing)
+
+.debug_loc      0x00000000     0x6eb4
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x2c7 Sketch.o
+ .debug_loc     0x000002c7      0x449 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x00000710      0x1b0 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x000008c0     0x1c87 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002547      0x28d F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x000027d4       0xfe F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x000028d2      0x5fc F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00002ece     0x3e02 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_loc     0x00006cd0      0x1e4 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x568
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x50 Sketch.o
+ .debug_ranges  0x00000050       0x58 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x000000a8       0x38 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x000000e0       0x20 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000100      0x120 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000220       0x38 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000258       0x20 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x00000278       0x28 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000002a0      0x290 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(RF24.o)
+ .debug_ranges  0x00000530       0x28 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_ranges  0x00000558       0x10 F:\trash\panic_example\panic_example\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(panic.elf elf32-avr)
+LOAD linker stubs
